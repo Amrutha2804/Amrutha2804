@@ -81,7 +81,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutha2804&theme=tokyonight&hide_border=true&font=JetBrains+Mono" width="65%" />
 </div>
-
 ---
 
 ![Amrutha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amrutha2804&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
