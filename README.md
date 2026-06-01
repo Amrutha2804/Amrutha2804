@@ -1,12 +1,12 @@
 ### <p>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/> I am Amrutha</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=CSE+Undergrad+building+RAG+systems;LangChain+%26+FastAPI;turning+college+problems+into+deployable+tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=CSE+Undergrad+building+RAG+systems;LangChain+%26+FastAPI;turning+daily+problems+into+deployable+tools)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amrutha2804&label=Profile%20views&color=0e75b6&style=flat" alt="Amrutha2804" /> </p>
 
 - 🔭 I'm currently working on a domain-specific RAG chatbot for KIIT students featuring placement FAQs, CGPA queries, timetables, all in one place.
 - 🌱 I'm currently learning LangChain, vector databases, and how to make LLMs actually useful in a specific domain rather than just everywhere at once.
-- 💬 Ask me about RAG pipelines, FastAPI, building tools that solve real campus problems, or deploying ML projects without spending money you don't have.
+- 💬 Ask me about RAG pipelines, FastAPI, building tools that solve real campus problems, or deploying ML projects without spending money and on a limited budget.
 - ⚡ Fun fact: built a chatbot that knows KIIT's placement cutoffs better than most seniors do, and an ML API that calculates exactly how much water you should drink. one of these is more popular than the other.
 
 ---
