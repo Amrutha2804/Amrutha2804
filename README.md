@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on a domain-specific RAG chatbot for KIIT students featuring placement FAQs, CGPA queries, timetables, all in one place.
 - 🌱 I'm currently learning LangChain, vector databases, and how to make LLMs actually useful in a specific domain rather than just everywhere at once.
 - 💬 Ask me about RAG pipelines, FastAPI, building tools that solve real problems, or deploying ML projects without spending money and on a tight budget.
-- ⚡ Fun fact: built a chatbot that knows KIIT's placement cutoffs better than most seniors do, and an ML API that calculates exactly how much water you should drink. one of these is more popular than the other.
+- ⚡ Fun fact: built a chatbot that knows KIIT's placement cutoffs better than most seniors do, and an ML API that calculates exactly how much water you should drink. 
 
 ---
 
